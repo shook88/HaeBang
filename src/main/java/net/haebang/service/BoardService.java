@@ -5,6 +5,7 @@ public interface BoardService{
 	void insertBoard();
 	void modifyBoard();
 	void showBoard();
+	void selectBoard();
 
 }
 
